@@ -1,0 +1,15 @@
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/obj/Debug/net7.0/Task2.csproj.AssemblyReference.cache
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/bin/Debug/net7.0/Task2
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/bin/Debug/net7.0/Task2.deps.json
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/bin/Debug/net7.0/Task2.dll
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/bin/Debug/net7.0/Task2.pdb
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/obj/Debug/net7.0/Task2.dll
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/obj/Debug/net7.0/refint/Task2.dll
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/obj/Debug/net7.0/Task2.pdb
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task2/obj/Debug/net7.0/ref/Task2.dll
