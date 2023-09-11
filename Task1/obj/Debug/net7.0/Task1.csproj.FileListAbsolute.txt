@@ -1,0 +1,15 @@
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/bin/Debug/net7.0/Task1
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/bin/Debug/net7.0/Task1.deps.json
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/bin/Debug/net7.0/Task1.dll
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/bin/Debug/net7.0/Task1.pdb
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/obj/Debug/net7.0/Task1.dll
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/obj/Debug/net7.0/Task1.pdb
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/Users/olkash/Desktop/Учеба/HomeworkC#6/HomeworkCSharp6/Task1/obj/Debug/net7.0/ref/Task1.dll
